@@ -1,10 +1,3 @@
-/*
- * You are not to edit this file. You should look through it, but
- * the graders will be using an exact copy of this file and if
- * you make changes it will stop your program from working
- * (or even compiling) and cost you a lot of points.
- */
-
 public class BankAccount
 {    
     private int accountNumber;
