@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BankPatron
+comment1.params=
+comment1.target=BankPatron()
+comment2.params=firstName\ lastName\ salary\ cashOnHand
+comment2.target=BankPatron(java.lang.String,\ java.lang.String,\ double,\ double)
+numComments=3
