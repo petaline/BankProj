@@ -75,7 +75,7 @@ public class BankAccount
     
     public void applyInterest()
     {
-        balance += (balance * interestRate);
+        balance += (balance * (interestRate / 100));
     }
     
     public String getHolderFullName()
